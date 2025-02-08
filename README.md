@@ -1,4 +1,4 @@
-## Hi there 👋
+## println!("Beginner Rust developer");
 
 <!--
 **sfgxdfdfg/sfgxdfdfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
